@@ -1,0 +1,9 @@
+name: can_example
+version: 0.1.0
+
+authors:
+  - Isaac Sloan <isaac@isaacsloan.com>
+
+crystal: 1.0.0
+
+license: MIT

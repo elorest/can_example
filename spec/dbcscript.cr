@@ -1,9 +1,3 @@
-require "../src/can_example"
-
-fm = FakeMsg0.new(0b1010100111001010101010101011001010111100001010101010100010100011_u64)
-
-# puts fm.inspect
-
 string = <<-STRING
 BO_ 158 vehExamplestatus: 8 BCU
   SG_ vehExampleMsg1  : 0|4@1+   (1,0)    [0|8]    "tup"   UCU
